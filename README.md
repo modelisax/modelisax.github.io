@@ -17,4 +17,11 @@ Tutorials
  
 ## Vergangene Veranstaltungen
 
+### Auftaktveranstaltung 03.07.2013
+[Flyer zur Auftaktveranstaltung](https://github.com/modelisax/modelisax.github.io/blob/main/meetings/2013/06/2013-04-23_Flyer_Auftaktveranstaltung.pdf)
 
+<object data="https://github.com/modelisax/modelisax.github.io/blob/main/meetings/2013/06/2013-04-23_Flyer_Auftaktveranstaltung.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/meetings/2013/06/2013-04-23_Flyer_Auftaktveranstaltung.pdf">
+        <p>This browser does not support PDFs. Please download it from the repository.</p>
+    </embed>
+</object>
